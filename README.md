@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Menezes</h1>
 
-<h3 align="center">A new developer from Brazil</h3>
+<h3 align="center">Back-End Dev from Brazil</h3>
 
 ##
 
