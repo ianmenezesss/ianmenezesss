@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science 7th Semester
+- 🎓 Computer Science 8th Semester
 - 📩 Contact: **ianmenezes35@gmail.com**  
 - 🌱 Currently learning: **Python**, Back-End and Data Science
 - 💡 Interested in: Software Engineering, APIs, Data Structures & Real-World Projects  
